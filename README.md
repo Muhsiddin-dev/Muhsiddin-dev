@@ -129,31 +129,33 @@ Achieved high proficiency marks in C++, HTML & CSS, Git, JavaScript, React and N
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhsiddin-dev&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=FBBF24&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsiddin-dev&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=ffffff"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhsiddin-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsiddin-dev&theme=tokyonight&hide_border=true&layout=compact" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Muhsiddin-dev&hide_border=true&background=00000000&ring=A78BFA&fire=FBBF24&currStreakLabel=A78BFA"/>
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Muhsiddin-dev&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhsiddin-dev&theme=react-dark&hide_border=true&bg_color=00000000&color=A78BFA&line=FBBF24&point=ffffff"/>
+</p>
 
 ---
 
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhsiddin-dev&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Muhsiddin-dev&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" />
 </div>
 
 ---
 
-### 💻 Always Coding
+### 🗼 Isometric Contribution Calendar
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450"/>
+<img src="https://metrics.lecoq.io/Muhsiddin-dev?template=classic&base=header,activity&plugin_isocalendar=yes&plugin_isocalendar_duration=full&config.timezone=Asia/Dushanbe&theme=dark" width="100%"/>
 </div>
 
 ---
@@ -164,7 +166,8 @@ Achieved high proficiency marks in C++, HTML & CSS, Git, JavaScript, React and N
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6a5acd?style=for-the-badge&logo=vercel&logoColor=white)](https://muhsiddindev.vercel.app/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhsiddin-nazarov)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_nazarov._011)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_nazarov.__011)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lll_nazarov_lll)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@muhsinnak.011)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhsinnazrov21@gmail.com)
 
