@@ -127,19 +127,21 @@ Achieved high proficiency marks in C++, HTML & CSS, Git, JavaScript, React and N
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhsiddin-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsiddin-dev&theme=tokyonight&hide_border=true&layout=compact" />
+<!-- Қисми чап: GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Muhsiddin-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+
+<!-- Қисми рост: Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsiddin-dev&layout=compact&theme=tokyonight" />
 
 <br/>
 
+<!-- Илова кардани дигар оморҳо (Streak ва Activity Graph) -->
 <img src="https://streak-stats.demolab.com?user=Muhsiddin-dev&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
-
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhsiddin-dev&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 
 </div>
@@ -149,7 +151,7 @@ Achieved high proficiency marks in C++, HTML & CSS, Git, JavaScript, React and N
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhsiddin-dev&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Muhsiddin-dev&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true&raw=true" />
 </div>
 
 ---
