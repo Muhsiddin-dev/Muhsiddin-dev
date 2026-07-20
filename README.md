@@ -127,22 +127,16 @@ Achieved high proficiency marks in C++, HTML & CSS, Git, JavaScript, React and N
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Қисми чап: GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Muhsiddin-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-
-<!-- Қисми рост: Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsiddin-dev&layout=compact&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhsiddin-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsiddin-dev&theme=tokyonight&hide_border=true&layout=compact" />
 
 <br/>
 
-<!-- Илова кардани дигар оморҳо (Streak ва Activity Graph) -->
 <img src="https://streak-stats.demolab.com?user=Muhsiddin-dev&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhsiddin-dev&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 
 </div>
 
@@ -151,18 +145,16 @@ Achieved high proficiency marks in C++, HTML & CSS, Git, JavaScript, React and N
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhsiddin-dev&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true&raw=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Muhsiddin-dev&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 💻 Always Coding
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Muhsiddin-dev/Muhsiddin-dev/output/github-contribution-grid-snake.svg" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450"/>
 </div>
-
-> ⚠️ This one needs a **one-time setup**: add the workflow file `snake.yml` (provided separately) to `.github/workflows/` in your `Muhsiddin-dev/Muhsiddin-dev` repo. It will auto-generate this animation from your real commit history within a few minutes of your first push.
 
 ---
 
@@ -172,8 +164,7 @@ Achieved high proficiency marks in C++, HTML & CSS, Git, JavaScript, React and N
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6a5acd?style=for-the-badge&logo=vercel&logoColor=white)](https://muhsiddindev.vercel.app/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhsiddin-nazarov)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_nazarov.__011)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lll_nazarov_lll)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_nazarov._011)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@muhsinnak.011)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhsinnazrov21@gmail.com)
 
