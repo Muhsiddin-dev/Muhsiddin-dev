@@ -112,7 +112,7 @@ Official web platform for Secondary General Education Institution No. 97 in Dush
 
 **📌 Pinned Repository**
 
-<a href="https://github.com/Muhsiddin-dev/e-Kitobxona"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhsiddin-dev&repo=e-Kitobxona&theme=dark&hide_border=true" /></a>
+<a href="https://github.com/Muhsiddin-dev/e-Kitobxona"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Muhsiddin-dev&repo=e-Kitobxona&theme=dark&hide_border=true&title_color=A78BFA&text_color=ffffff&icon_color=FBBF24&bg_color=00000000" /></a>
 
 </td>
 </tr>
@@ -130,13 +130,10 @@ Achieved high proficiency marks in C++, HTML & CSS, Git, JavaScript, React and N
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhsiddin-dev&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=FBBF24&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsiddin-dev&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=ffffff"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Muhsiddin-dev&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=FBBF24&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muhsiddin-dev&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=ffffff"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Muhsiddin-dev&hide_border=true&background=00000000&ring=A78BFA&fire=FBBF24&currStreakLabel=A78BFA"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhsiddin-dev&theme=react-dark&hide_border=true&bg_color=00000000&color=A78BFA&line=FBBF24&point=ffffff"/>
@@ -144,34 +141,24 @@ Achieved high proficiency marks in C++, HTML & CSS, Git, JavaScript, React and N
 
 ---
 
-### 🏆 Trophies
+### 🗼 Isometric Contribution Calendar & Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhsiddin-dev&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" />
-</div>
-
----
-
-### 🗼 Isometric Contribution Calendar
-
-<div align="center">
-<img src="https://metrics.lecoq.io/Muhsiddin-dev?template=classic&base=header,activity&plugin_isocalendar=yes&plugin_isocalendar_duration=full&config.timezone=Asia/Dushanbe&theme=dark" width="100%"/>
+<img src="https://metrics.lecoq.io/Muhsiddin-dev?template=classic&base=header&plugin_isocalendar=yes&plugin_isocalendar_duration=full&plugin_achievements=yes&plugin_achievements_threshold=C&config.timezone=Asia/Dushanbe&theme=dark" width="100%"/>
 </div>
 
 ---
 
 ### 🌐 Connect With Me
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6a5acd?style=for-the-badge&logo=vercel&logoColor=white)](https://muhsiddindev.vercel.app/en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhsiddin-nazarov)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_nazarov.__011)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lll_nazarov_lll)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@muhsinnak.011)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhsinnazrov21@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://muhsiddindev.vercel.app/en"><img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/muhsiddin-nazarov"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/_nazarov.__011"><img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://t.me/lll_nazarov_lll"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="50" alt="Telegram"/></a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/@muhsinnak.011"><img src="https://cdn.simpleicons.org/tiktok/000000" height="50" alt="TikTok"/></a>&nbsp;&nbsp;
+  <a href="mailto:muhsinnazrov21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/></a>
+</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
